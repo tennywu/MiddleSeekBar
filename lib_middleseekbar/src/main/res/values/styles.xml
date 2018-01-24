@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MiddleSeekBar">
+        <item name="MB_ThumbRadius">12dp</item>
+        <item name="MB_ThumbColor">#FFFFFF</item>
+        <item name="MB_ProgressColor">#F64358</item>
+        <item name="MB_ProgressBackgroundColor">#1f000000</item>
+        <item name="MB_ProgressWidth">2dp</item>
+        <item name="MB_TextSize">15sp</item>
+        <item name="MB_TextColor">#303030</item>
+    </style>
+</resources>

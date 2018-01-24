@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MiddleSeekBar">
+        <attr name="MB_ThumbRadius" format="dimension"/>
+        <attr name="MB_ThumbColor" format="color"/>
+        <attr name="MB_ProgressColor" format="color"/>
+        <attr name="MB_ProgressBackgroundColor" format="color"/>
+        <attr name="MB_ProgressWidth" format="dimension"/>
+        <attr name="MB_TextSize" format="dimension"/>
+        <attr name="MB_TextColor" format="color"/>
+    </declare-styleable>
+</resources>
